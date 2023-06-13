@@ -560,7 +560,7 @@ ul{
     transform:rotate(8deg) scale(1.1);
 }
 .contenido .testimonial:before{
-    background-image:url(/GUAY/img/comilla.svg);
+    background-image:url(/img/comilla.svg);
     background-position:50%;
     background-repeat:no-repeat;
     content:"";
