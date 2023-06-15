@@ -1,17 +1,6 @@
 @import url('https://fonts.googleapis.com/css2?family=Roboto:wght@300;400;700&display=swap');
 
-/*CLASES FOOTER*/
-.redes-sociales{
-    width: 100%; 
-    margin: 0 auto;
-    display: grid;
-    grid-template-columns: repeat(3, 1fr);
-}
-.redes-sociales div {
-    width: 80px;
-    heigth: 80px;
-    
-}
+
 
 /*  CSS DEL VIDEO HEADER*
 header {
@@ -772,4 +761,17 @@ margin: 5px;
 
 #emailOptOut{
     margin: 5px;
+}
+
+/*CLASES FOOTER*/
+.redes-sociales{
+    width: 100%; 
+    margin: 0 auto;
+    display: grid;
+    grid-template-columns: repeat(3, 1fr);
+}
+.redes-sociales div {
+    width: 80px;
+    heigth: 80px;
+    
 }
