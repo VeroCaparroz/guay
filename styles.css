@@ -766,7 +766,8 @@ margin: 5px;
 
 /*CLASES FOOTER*/
 .redes-sociales{ 
-    margin: -50rem;
+    max-width: 100% !important;
+    margin: -10rem;
     display: grid;
     grid-template-columns: repeat(4, 1fr);
 }
