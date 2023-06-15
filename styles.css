@@ -771,10 +771,7 @@ margin: 5px;
     display: grid;
     grid-template-columns: repeat(4, 1fr);
 }
-.redes-sociales div {
-    width: 80px;
-    heigth: 80px;
-}
+
 .iconos{
     width: 50%;
     height:50%;
