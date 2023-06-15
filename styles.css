@@ -2,8 +2,9 @@
 
 /*CLASES FOOTER*/
 .redes-sociales{
-   
-    display:grid;
+    width: 100%; 
+    margin: 0 auto;
+    display: grid;
     grid-template-columns: repeat(3, 1fr);
 }
 .redes-sociales div {
