@@ -764,14 +764,12 @@ margin: 5px;
 }
 
 /*CLASES FOOTER*/
-.redes-sociales{
-    width: 100%; 
-    margin: 0 auto;
+.redes-sociales{ 
+    margin: 0;
     display: grid;
     grid-template-columns: repeat(4, 1fr);
 }
 .redes-sociales div {
     width: 80px;
     heigth: 80px;
-    
 }
