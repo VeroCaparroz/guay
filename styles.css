@@ -19,7 +19,7 @@ header {
     overflow: hidden;
 }*/
 #bod{
-    background-color: #696969;
+    background-image: url(fondo.jpg);
 }
 #video {
     position: absolute;
