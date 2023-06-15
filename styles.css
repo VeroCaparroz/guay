@@ -6,7 +6,7 @@
     display:grid;
     grid-template-columns: repeat(3, 1fr);
 }
-.redes-sociales a {
+.redes-sociales div {
     width: 30px;
     heigth: 30px;
     
