@@ -10,7 +10,6 @@ header {
 }*/
 #bod{
     background-image: url(/img/fondo.jpg);
-    width: 100%;
 }
 #video {
     position: absolute;
