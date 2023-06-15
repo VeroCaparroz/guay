@@ -1,5 +1,12 @@
 @import url('https://fonts.googleapis.com/css2?family=Roboto:wght@300;400;700&display=swap');
 
+/*CLASES FOOTER*/
+.redes-sociales{
+    display:grid;
+    
+}
+
+
 /*  CSS DEL VIDEO HEADER*
 header {
     position: relative;
