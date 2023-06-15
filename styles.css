@@ -2,11 +2,15 @@
 
 /*CLASES FOOTER*/
 .redes-sociales{
-    width:100%;
+   
     display:grid;
     grid-template-columns: repeat(3, 1fr);
 }
-
+.redes-sociales a {
+    width: 30px;
+    heigth: 30px;
+    
+}
 
 /*  CSS DEL VIDEO HEADER*
 header {
