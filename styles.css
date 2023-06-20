@@ -581,7 +581,8 @@ ul{
 .footer{
     width: 100%;
     color:#fff;
-    margin-left: 40%;
+    margin: auto;
+    bacgraund-color: #a2cadf;
 }/*
 .footer .footer-grid{
     padding:5rem 0;
