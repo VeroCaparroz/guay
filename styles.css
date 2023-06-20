@@ -765,13 +765,10 @@ margin: 5px;
 
 /*CLASES FOOTER*/
 .redes-sociales{ 
-    max-width: 100% !important;
-    margin: -10rem;
-    display: grid;
-    grid-template-columns: repeat(4, 1fr);
+    display: flex; 
+    flex-direction: row;
+}
+.redes-sociales > div{
+  margin: auto;
 }
 
-.iconos{
-    width: 15%;
-    height:30%;
-}
