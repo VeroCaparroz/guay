@@ -265,7 +265,7 @@ ul{
     }
 }
 .crea-grid h2{
-    color:white;
+    color:black;
     display:inline-block;
     font-size:3rem;
     margin-top:5rem;
@@ -310,7 +310,7 @@ ul{
     margin: 1.3%;
 }
 .beneficios .contenido-beneficios h2{
-    color:white;
+    color:black;
     display:inline-block;
     font-size:3rem;
     margin-top:5rem;
@@ -344,7 +344,7 @@ ul{
     transform:rotate(8deg) scale(1.1);
 }/*
 .estadisticas h2{
-    color:white;
+    color:black;
     display:inline-block;
     font-size:3rem;
     margin-top:5rem;
@@ -493,7 +493,7 @@ ul{
     }
 }
 .testimoniales h2{
-    color:white;
+    color:black;
     display:inline-block;
     font-size:3.6rem;
     margin-top:0rem;
