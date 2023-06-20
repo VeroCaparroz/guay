@@ -627,16 +627,7 @@ ul{
 .footer nav a:last-of-type{
     margin-bottom:0;
 }*/
-.footer .copyright{
-    border-top:2px solid #6495ED;
-    color:#fff;
-    font-size:1.2rem;
-    margin:0 auto;
-    max-width:120rem;
-    padding:1rem;
-    text-align:center;
-    text-transform:uppercase;
-}
+
 .boton-plan,.boton-primario{
     background-color:blue;
     border:none;
@@ -765,6 +756,16 @@ margin: 5px;
 }
 
 /*CLASES FOOTER*/
+.copyright{
+    border-top:2px solid #6495ED;
+    color:#fff;
+    font-size:1.2rem;
+    margin:0 auto;
+    max-width:120rem;
+    padding:1rem;
+    text-align:center;
+    text-transform:uppercase;
+}
 .redes-sociales{ 
     display: flex; 
     flex-direction: row;
