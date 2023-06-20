@@ -9,8 +9,7 @@ header {
     overflow: hidden;
 }*/
 #bod{
-    background-image: url(/img/fondo.jpg);
-    back-ground-repeat: no-repeat;
+    background-color: white;
 }
 #video {
     position: absolute;
