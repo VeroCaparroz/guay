@@ -770,7 +770,7 @@ margin: 5px;
     flex-direction: row;
 }
 .redes-sociales > div{
-  margin: 5%;
+  margin: 0 auto;
 }
 .iconos{
     width:60px;
