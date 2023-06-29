@@ -9,7 +9,7 @@ header {
     overflow: hidden;
 }*/
 #bod{
-    background-color: #3a6dd7;
+    background-image: url(fondo1.jpg);
 }
 .bg {
     position: absolute;
