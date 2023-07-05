@@ -96,63 +96,20 @@ ul{
 .contenido .btn test{
     margin-top: 20%;
 }
-@media (min-width:768px){
-    .seccion{
-        padding:8rem 0;
-    }
-}
-
 .site-header .logo{
     margin:0;
     max-width:20rem;
-}/*
-@media (min-width:768px){
-    .site-header .logo{
-        margin:0;
-    }
 }
-.site-header .contenido-header{
-    padding:10rem 0;
-}*/
-@media (min-width:1024px){
-    .site-header .contenido-header{
-        padding:5rem 0;
-    }
-}/*
 .site-header .contenido-header h1{
     color:black;
     font-size:2rem;
     grid-column: 2/3;
-}*/
-@media (min-width:768px){
-    .site-header .contenido-header h1{
-        font-size:6rem;
-        max-width:50%;
-    }
-}
-@media (min-width:1024px){
-    .site-header .contenido-header h1{
-        max-width:40%;
-    }
-}
-@media (min-width:768px){
-    .crea-grid{
-        align-items:center;
-        display:grid;
-        gap:2rem;
-        grid-template-columns:repeat(2,1fr);
-    }
 }
 .crea-grid h2{
     color:black;
     display:inline-block;
     font-size:3rem;
     margin-top:30px;
-}
-@media (min-width:768px){
-    .crea-grid h2{
-        margin-top:0;
-    }
 }
 .crea-grid .imagen{
     margin-top: 50px;
@@ -173,18 +130,7 @@ ul{
     margin:-0.5rem 0 0;
     width:calc(100% + 1rem);
     margin-top: 30px;
-}/*
-.beneficios,.crea-grid h2:after{
-    background-color:#6495ED;
 }
-@media (min-width:768px){
-    .beneficios .grid-beneficios{
-        align-items:center;
-        display:grid;
-        gap:4rem;
-        grid-template-columns:repeat(5,1fr);
-    }
-}*/
 .beneficios .contenido-beneficios{
     grid-column:1/4;
     width: 47%;
@@ -196,11 +142,6 @@ ul{
     font-size:3rem;
     margin-top:1rem;
     width: 102%;
-}
-@media (min-width:768px){
-    .beneficios .contenido-beneficios h2{
-        margin-top:0;
-    }
 }
 .beneficios .contenido-beneficios h2:after{
     background-color:red;
@@ -223,21 +164,9 @@ ul{
 .beneficios .imagen:hover{
     -webkit-transform:rotate(8deg) scale(1.1);
     transform:rotate(8deg) scale(1.1);
-}/*
-.estadisticas h2{
-    color:black;
-    display:inline-block;
-    font-size:3rem;
-    margin-top:5rem;
-}*/
-@media (min-width:768px){
-    .estadisticas h2{
-        margin-top:0;
-    }
 }
 .estadisticas .imagen{
-    width: 30%;
-  
+    width: 30%;  
     margin-left: 80%;
     transition-duration:.3s;
     transition-property:-webkit-transform;
@@ -248,7 +177,6 @@ ul{
     -webkit-transform:rotate(8deg) scale(1.1);
     transform:rotate(8deg) scale(1.1);
 }
-
 .estadisticas h2:after{
     background-color:red;
     content:"";
