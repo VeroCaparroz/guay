@@ -100,12 +100,12 @@ ul{
 .site-header .logo{
     margin:0;
     max-width:20rem;
-}
+}/*
 .site-header .contenido-header h1{
     color:black;
     font-size:2rem;
     grid-column: 2/3;
-}
+}*/
 .crea-grid h2{
     color:black;
     display:inline-block;
