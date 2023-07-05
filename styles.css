@@ -510,8 +510,7 @@ ul{
     margin-bottom:0;
 }*/
 .btn1 .boton-primario{
-    margin-top: 10px;
-    margin-right: 5px;
+
     display: flex;
     justify-content: flex-end;
 }
