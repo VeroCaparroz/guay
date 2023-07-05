@@ -404,7 +404,7 @@ ul{
 .footer nav a:last-of-type{
     margin-bottom:0;
 }
-.btn1 {
+.btn1 boton-primario{
     display: flex;
     justify-content: flex-end;
 }
