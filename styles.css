@@ -332,11 +332,11 @@ ul{
 .footer nav a:last-of-type{
     margin-bottom:0;
 }
-.btn1 boton-primario{
+.btn1 .boton-primario{
     display: flex;
     justify-content: flex-end;
 }
-.boton-plan,.boton-primario{
+.boton-primario{
     background-color:#2e518b;
     color:white;
     display:block;
