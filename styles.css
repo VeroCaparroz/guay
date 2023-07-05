@@ -167,7 +167,7 @@ ul{
 }
 .trabajo .imagen{
     width: 30%;  
-    margin-left: 80%;
+    margin-left: 10%;
     transition-duration:.3s;
     transition-property:-webkit-transform;
     transition-property:transform;
