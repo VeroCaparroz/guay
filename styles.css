@@ -622,7 +622,9 @@ ul{
 .footer nav a:last-of-type{
     margin-bottom:0;
 }*/
-
+.btn1,.boton-primario{
+    top right: 20px;
+}
 .boton-plan,.boton-primario{
     background-color:#2e518b;
     color:white;
