@@ -234,12 +234,12 @@ ul{
 }
 .site-header .contenido-header{
     padding:10rem 0;
-}
+}*/
 @media (min-width:1024px){
     .site-header .contenido-header{
         padding:5rem 0;
     }
-}*
+}/*
 .site-header .contenido-header h1{
     color:black;
     font-size:2rem;
@@ -348,7 +348,7 @@ ul{
     display:inline-block;
     font-size:3rem;
     margin-top:5rem;
-}
+}*/
 @media (min-width:768px){
     .estadisticas h2{
         margin-top:0;
