@@ -330,7 +330,7 @@ ul{
     width:calc(100% + 1rem);
 }
 .beneficios .imagen{
-    width: 30%;
+    width: 50%;
     margin-left: 52%;
     margin-top: -25%;
     grid-column:4/6;
