@@ -103,7 +103,7 @@ ul{
 }
 
 .site-header .logo{
-    margin:0 auto;
+    margin:0;
     max-width:20rem;
 }/*
 @media (min-width:768px){
