@@ -30,7 +30,7 @@ body{
 }
 main{
     display:block;
-}
+}/*
 hr{
     box-sizing:content-box;
     height:0;
@@ -39,7 +39,7 @@ hr{
 pre{
     font-family:monospace,monospace;
     font-size:1em;
-}
+}*/
 a{
     background-color:transparentre;
 }
