@@ -100,13 +100,7 @@ ul{
         padding:8rem 0;
     }
 }
-.site-header{
-    
-    background-position:top;
-    background-repeat:no-repeat;
-    background-size:cover;
-    padding:5rem 0;
-}
+
 .site-header .logo{
     margin:0 auto;
     max-width:20rem;
