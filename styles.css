@@ -147,7 +147,7 @@ ul{
     color:black;
     display:inline-block;
     font-size:3rem;
-    margin-top:0.5rem;
+    margin-top:2.5rem;
 }
 @media (min-width:768px){
     .crea-grid h2{
