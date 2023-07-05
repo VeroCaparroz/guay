@@ -208,7 +208,7 @@ ul{
     padding:0;
 }
 .seccion{
-    padding:3rem 0;
+    padding:0.5rem 0;
 }
 .contenido .btn test{
     margin-top: 20%;
@@ -270,7 +270,7 @@ ul{
     color:black;
     display:inline-block;
     font-size:3rem;
-    margin-top:5rem;
+    margin-top:0.5rem;
 }
 @media (min-width:768px){
     .crea-grid h2{
