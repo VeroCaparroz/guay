@@ -114,7 +114,6 @@ ul{
 }
 .crea-grid .imagen{
     width: 45%;
-    margin-top: 100px;
     transition-duration:.3s;
     transition-property:-webkit-transform;
     transition-property:transform;
@@ -131,7 +130,7 @@ ul{
     height:0.5rem;
     margin:-0.5rem 0 0;
     width:calc(100% + 1rem);
-    margin-top: 30px;
+   
 }
 .cultura .contenido-cultura{
     grid-column:1/4;
