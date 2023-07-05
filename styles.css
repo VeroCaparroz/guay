@@ -165,7 +165,7 @@ ul{
     -webkit-transform:rotate(8deg) scale(1.1);
     transform:rotate(8deg) scale(1.1);
 }
-.estadisticas .imagen{
+.trabajo .imagen{
     width: 30%;  
     margin-left: 80%;
     transition-duration:.3s;
@@ -173,11 +173,11 @@ ul{
     transition-property:transform;
     transition-property:transform,-webkit-transform;
 }
-.estadisticas .imagen:hover{
+.trabajo .imagen:hover{
     -webkit-transform:rotate(8deg) scale(1.1);
     transform:rotate(8deg) scale(1.1);
 }
-.estadisticas h2:after{
+.trabajo h2:after{
     background-color:red;
     content:"";
     display:block;
