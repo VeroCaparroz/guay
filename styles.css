@@ -160,7 +160,6 @@ summary{
 .btn1 .btn-primario{
     margin-left: -50;
     display:flex;
-    justify-content: center;
     padding: 3rem;
 }/*
 html{
