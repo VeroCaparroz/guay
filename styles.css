@@ -214,7 +214,8 @@ ul{
     padding:3rem 0;
 }
 .btnprin{
-     height: 30px;
+    height: 30px;
+    background-color: transparent;
 }
 .contenido .btn test{
     margin-top: 20%;
