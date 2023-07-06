@@ -624,18 +624,21 @@ ul{
 }*/
 
 .boton-plan,.boton-primario{
-    background-color:blue;
-    border:none;
+    background-color:#2e518b;
     color:white;
     display:block;
-    font-size:2rem;
-    font-weight:700;
-    padding:1.2rem 4rem;
+    font-size:20px;
+    font-weight:100px;
+    padding: 10px;
+    border: 1px solid #2e518b;
     text-align:center;
     text-decoration:none;
     transition:background-color .3s ease;
-    width:100%;
+    width:50%;
+    border-radius: 50px;
+    text-transform: uppercase;
 }
+
 .boton-plan:hover,.boton-primario:hover{
     background-color:#6495ED;
     cursor:pointer;
