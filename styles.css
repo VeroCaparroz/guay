@@ -158,9 +158,10 @@ summary{
     background-color:#84d9bc;
 }
 .btn1 .btn-primario{
+    align-items:center;
     display:flex;
     justify-content: center;
-    position: absolute;
+    position: relative;
 }/*
 html{
     box-sizing:border-box;
