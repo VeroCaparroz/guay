@@ -291,7 +291,7 @@ ul{
     grid-column:1/6;
     width: 45%;
     
-    margin-top: -25%;
+    margin-top: 25%;
     transition-duration:.3s;
     transition-property:-webkit-transform;
     transition-property:transform;
