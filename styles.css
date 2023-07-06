@@ -161,7 +161,7 @@ summary{
     align-items:center;
     display:flex;
     justify-content: center;
-    position: relative;
+    padding: 3rem;
 }/*
 html{
     box-sizing:border-box;
