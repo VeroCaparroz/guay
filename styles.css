@@ -113,6 +113,10 @@ ul{
     display: inline-block;
     
 }
+.contenido{
+    margin-top:30px;
+    margin:15px;
+}
 .crea-grid h2{
     color:black;
     display:inline-block;
