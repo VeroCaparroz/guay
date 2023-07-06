@@ -648,7 +648,7 @@ ul{
 @media (min-width:768px){
     .boton-plan,.boton-primario{
         display:inline-block;
-        width:auto
+       
     }
 }/*
 .boton-plan{
