@@ -642,7 +642,7 @@ ul{
 .boton-plan:hover,.boton-primario:hover{
     background-color:#6495ED;
     cursor:pointer;
-}
+}/*
 @media (min-width:768px){
     .boton-plan,.boton-primario{
         display:inline-block;
