@@ -107,20 +107,20 @@ ul{
     grid-column: 2/3;
 }
 .crea-grig .contenido{
-    grid-column:1/4;
+    grid-column:2/4;
     width: 47%;
     margin: 1.3%;
     display: inline-block;
-    vertical-align:right;
+    
 }
 .crea-grid h2{
     color:black;
     display:inline-block;
     font-size:3rem;
-    margin-top:30px;
+    margin-top:35px;
 }
 .crea-grid .imagen{
-    margin-top:25%;
+    margin-top:35%;
     width: 45%;
     transition-duration:.3s;
     transition-property:-webkit-transform;
