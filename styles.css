@@ -156,6 +156,10 @@ summary{
 }*/
 .bg-primario{
     background-color:#84d9bc;
+}
+.btn1 .btn-primario{
+    display:flex;
+    justify-content: flex-end;
 }/*
 html{
     box-sizing:border-box;
