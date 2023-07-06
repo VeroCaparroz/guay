@@ -159,7 +159,7 @@ summary{
 }
 .btn1 .btn-primario{
     margin-left: 45%;
- 
+    display:flex; 
     padding: 3rem;
 }/*
 html{
@@ -636,7 +636,6 @@ ul{
     transition:background-color .3s ease;
     border-radius: 50px;
     text-transform: uppercase;
-    margin-left:45%;
     margin-top: 10px;
 }
 
