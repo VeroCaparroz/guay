@@ -638,6 +638,7 @@ ul{
     border-radius: 50px;
     text-transform: uppercase;
     margin-left:50%;
+    margin-top: 10px;
 }
 
 .boton-plan:hover,.boton-primario:hover{
