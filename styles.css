@@ -637,7 +637,7 @@ ul{
     width:100%;
     border-radius: 50px;
     text-transform: uppercase;
-    margin-left:-50%;
+    margin-left:50%;
 }
 
 .boton-plan:hover,.boton-primario:hover{
