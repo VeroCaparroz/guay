@@ -635,9 +635,9 @@ ul{
     text-decoration:none;
     transition:background-color .3s ease;
     width:100%;
-    border-radius: 5px;
+    border-radius: 50px;
     text-transform: uppercase;
-    margin-left:50%;
+    margin-left:45%;
     margin-top: 10px;
 }
 
