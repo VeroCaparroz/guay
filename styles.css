@@ -19,6 +19,7 @@ header {
     height: 100%;
     object-fit: cover;
     z-index: -1;
+    margin-bottom: 10px;
 }
 /*html*/
 html{
