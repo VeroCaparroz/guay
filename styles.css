@@ -477,6 +477,7 @@ margin: 5px;
     color:#fff;
     margin: auto;
     bacgraund-color: #a2cadf;
+    z-index: 15;
 }   
 #copyright{
     border-top:2px solid #6495ED;
