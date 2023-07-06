@@ -107,7 +107,7 @@ ul{
     grid-column: 2/3;
 }
 .crea-grig .contenido{
-    grid-column:3/4;
+    grid-column:1/4;
     width: 47%;
     margin: 1.3%;
 }
