@@ -159,7 +159,7 @@ summary{
 }
 .btn1 .btn-primario{
     display:flex;
-    justify-content: flex-end;
+    justify-content: center;
 }/*
 html{
     box-sizing:border-box;
@@ -214,8 +214,9 @@ ul{
     padding:3rem 0;
 }
 .btnprin{
-    height: 30px;
+    height: 150px;
     background-color: transparent;
+    width: 100%;
 }
 .contenido .btn test{
     margin-top: 20%;
