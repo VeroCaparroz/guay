@@ -158,7 +158,7 @@ summary{
     background-color:#84d9bc;
 }
 .btn1 .btn-primario{
-    align-items:center;
+    margin-left: -50;
     display:flex;
     justify-content: center;
     padding: 3rem;
