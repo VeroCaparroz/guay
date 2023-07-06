@@ -110,6 +110,8 @@ ul{
     grid-column:1/4;
     width: 47%;
     margin: 1.3%;
+    display: inline-block;
+    vertical-align:right;
 }
 .crea-grid h2{
     color:black;
