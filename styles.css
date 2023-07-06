@@ -213,6 +213,9 @@ ul{
 .seccion{
     padding:3rem 0;
 }
+.btnprin{
+     height: 30px;
+}
 .contenido .btn test{
     margin-top: 20%;
 }
