@@ -160,6 +160,7 @@ summary{
 .btn1 .btn-primario{
     display:flex;
     justify-content: center;
+    position: absolute;
 }/*
 html{
     box-sizing:border-box;
