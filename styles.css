@@ -523,7 +523,7 @@ ul{
     width:calc(100% + 0.5rem);
 }
 .contenido .testimonial{
-    background-color:#3866f2;
+    background-color:#BEECF5;
     border:.5rem solid blue;
     border-radius:1rem;
     margin-bottom:4rem;
@@ -634,9 +634,10 @@ ul{
     text-align:center;
     text-decoration:none;
     transition:background-color .3s ease;
-    width:50%;
+    width:100%;
     border-radius: 50px;
     text-transform: uppercase;
+    margin-left:-50%;
 }
 
 .boton-plan:hover,.boton-primario:hover{
@@ -722,9 +723,7 @@ ul{
 
 }
 @media only screen and (max-width: 500px) {
-    body{
-        background: black;
-    }
+    
     .card-header{
         display: flex;
     }
