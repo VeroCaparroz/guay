@@ -157,6 +157,10 @@ summary{
 .bg-primario{
     background-color:#84d9bc;
 }
+.volv{
+    display: flex;
+    justify-content: center;
+}
 .btn1 .btn-primario{
     margin-left: 45%;
     display:flex; 
