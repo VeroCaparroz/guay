@@ -160,6 +160,7 @@ summary{
 .volv{
     display: flex;
     justify-content: center;
+    margin:10px;
 }
 .btn1 .btn-primario{
     margin-left: 45%;
